@@ -1,0 +1,19 @@
+body {
+  max-width: 1200px;
+  font-size: 1.2em;
+  margin: 0 10em;
+  padding: 3em;
+  background-color: aliceblue;
+}
+
+.homework-wrapper * {
+  text-indent: 20px;
+}
+
+.h1 {
+  color: rgb(3, 3, 32);
+}
+.second-homework,
+.first-homework {
+  margin-bottom: 3em;
+}
